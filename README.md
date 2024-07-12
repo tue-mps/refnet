@@ -1,4 +1,4 @@
-# REFNET
+# REFNET: Resource Efficient Fusion Network for Object Detection
 
 ## News
 - **(2024/07/10)** Paper accepted to ITSC 2024!
