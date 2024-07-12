@@ -1,4 +1,4 @@
-# REFNET: A Resource Efficient Fusion Network for Object Detection in Bird’s-Eye View using Camera and Raw Radar Data
+# REFNET
 
 ## News
 - **(2024/07/10)** Paper accepted to ITSC 2024!
