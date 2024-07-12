@@ -365,7 +365,7 @@ def main(config):
 
 if __name__=='__main__':
     # PARSE THE ARGS
-    parser = argparse.ArgumentParser(description='MultiTask Training')
+    parser = argparse.ArgumentParser(description='REFNET Training')
     parser.add_argument('-c', '--config', default='config/config_allmodality.json',type=str,
                         help='Path to the config file (default: config_allmodality.json)')
 
