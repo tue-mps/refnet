@@ -1,7 +1,7 @@
 # REFNET: Resource Efficient Fusion Network for Object Detection in Bird’s-Eye View
 
 ## News
-- **(2024/07/10)** Paper accepted to ITSC 2024!
+- **(2024/07/10)** [Paper](https://arxiv.org/abs/2411.13311) accepted to ITSC 2024!
 
 ## Overview
 The image processing pipeline first transforms the camera image into Bird’s-Eye View (BEV). Subsequently, the resultant BEV undergoes
