@@ -9,7 +9,7 @@
 ## News
 - **(2024/07/10)** Accepted to IEEE ITSC 2024!
 - **(2024/11/20)** [Paper](https://arxiv.org/abs/2411.13311)
-- **(2025/07/14)** Our upgraded multi-tasking architecture [REFNet++](https://github.com/tue-mps/refnetplusplus) is accepted to IEEE ITSC 2025!
+- **(2025/07/14)** Our upgraded multi-tasking architecture [REFNet++](https://github.com/tue-mps/refnetplusplus) has been accepted to IEEE ITSC 2025!
 
 ## Overview
 The image processing pipeline first transforms the camera image into Bird’s-Eye View (BEV). Subsequently, the resultant BEV undergoes
