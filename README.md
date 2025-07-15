@@ -1,5 +1,11 @@
 # REFNet: Resource Efficient Fusion Network for Object Detection in Bird’s-Eye View
 
+**[Kavin Chandrasekaran](https://scholar.google.com/citations?user=FMeH0ZkAAAAJ&hl=en)<sup>1,2</sup>, [Sorin Grigorescu](https://scholar.google.com/citations?user=3TsU0iMAAAAJ&hl=en)<sup>1,3</sup>, [Gijs Dubbelman](https://scholar.google.nl/citations?user=wy57br8AAAAJ)<sup>2</sup>, [Pavol Jancura](https://scholar.google.com/citations?user=ApILewUAAAAJ&hl=en)<sup>2</sup>**
+
+¹ Elektrobit Automotive GmbH  
+² Eindhoven University of Technology  
+³ Transilvania University of Brasov
+
 ## News
 - **(2024/07/10)** Accepted to IEEE ITSC 2024!
 - **(2024/11/20)** [Paper](https://arxiv.org/abs/2411.13311)
